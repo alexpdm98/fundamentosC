@@ -29,7 +29,7 @@ agenda[3][0] = "Miguel";
 agenda[3][1] = "Miguelito Miguelez";
 agenda[3][2] = "45678";
 agenda[3][3] = "correo3@correo.com";
-printf("El primer telefono es: %i", telefonos[0]);
-printf("El correo del segundo registro de la agenda es: %i", agenda[1][3]);
+printf("El primer telefono es: %i \n", telefonos[0]);
+printf("El correo del segundo registro de la agenda es: %i ", agenda[1][3]);
 return 0;
 }

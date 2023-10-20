@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="440633a0-68cd-4ab5-84df-c0ca9908df7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/003-Entradas y Salidas/entradas.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003-Entradas y Salidas/salidas.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentos C/006-Estructuras de datos/arrays.c" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos C/006-Estructuras de datos/arrays.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentos C/007-Estructuras de control/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos C/007-Estructuras de control/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentos C/007-Estructuras de control/bucles.c" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos C/007-Estructuras de control/bucles.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentos C/008-Programaciones en Funciones/funciones.c" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos C/008-Programaciones en Funciones/funciones.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/var/workspaces/programación/CRUDBaseDatosGit/fundamentosC/003-Entradas y Salidas",
+    "last_opened_file_path": "C:/var/workspaces/programación/CRUDArrayLists",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
